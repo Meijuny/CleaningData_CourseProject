@@ -48,6 +48,8 @@
         | bandsEnergy()     | Energy of a frequency interval within the 64 bins of the FFT of each window. |
         | angle()           | Angle between to vectors.                                                    |
 
+    -   Statistical Measurement Unit: All measurements are normalized and bounded within [-1,1].
+
     -   3-axis
 
         | Axis Name | Description                     |
